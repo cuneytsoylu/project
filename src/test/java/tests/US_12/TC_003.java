@@ -1,4 +1,4 @@
-package tests.US_013;
+package tests.US_12;
 
 public class TC_003 {
 }
