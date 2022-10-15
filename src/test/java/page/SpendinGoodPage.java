@@ -14,7 +14,7 @@ public class SpendinGoodPage {
 
 
 
-  /* US_01 (20 satır) */
+  /* US_01 (17-67) */
 
 
 
@@ -35,7 +35,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_02(20 satır)*/
 
 
 
@@ -56,7 +55,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_03(20 satır)*/
 
 
 
@@ -67,6 +65,7 @@ public class SpendinGoodPage {
 
 
 
+    /*US_02(68-118)*/
 
 
 
@@ -78,7 +77,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_04(20 satır)*/
 
 
 
@@ -99,7 +97,179 @@ public class SpendinGoodPage {
 
 
 
-    /*US_05(20 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_03(119-169 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_04(170-220 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_04(221-271 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_05(272-352 satır)*/
     @FindBy (xpath ="//*[text()='Store Manager']")
     public WebElement storeManager;
 
@@ -169,7 +339,18 @@ public class SpendinGoodPage {
 
 
 
-    /*US_06(20 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+    /*US_06(353-403 satır)*/
     @FindBy (xpath ="(//*[text()='Accessories'])[3]")
     public WebElement accessories;
 
@@ -220,6 +401,7 @@ public class SpendinGoodPage {
 
 
 
+    /*US_07(404-454 satır)*/
 
 
 
@@ -231,7 +413,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_07(20 satır)*/
 
 
 
@@ -252,7 +433,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_08(20 satır)*/
 
 
 
@@ -272,8 +452,8 @@ public class SpendinGoodPage {
 
 
 
+    /*US_08(455-505 satır)*/
 
-    /*US_09(20 satır)*/
 
 
 
@@ -294,7 +474,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_10(20 satır)*/
 
 
 
@@ -315,7 +494,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_11(20 satır)*/
 
 
 
@@ -325,6 +503,7 @@ public class SpendinGoodPage {
 
 
 
+    /*US_09(506-556 satır)*/
 
 
 
@@ -336,7 +515,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_12(20 satır)*/
 
 
 
@@ -357,7 +535,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_13(20 satır)*/
 
 
 
@@ -377,8 +554,8 @@ public class SpendinGoodPage {
 
 
 
+    /*US_10(557-607 satır)*/
 
-    /*US_14(20 satır)*/
 
 
 
@@ -399,7 +576,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_15(20 satır)*/
 
 
 
@@ -420,7 +596,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_16(20 satır)*/
 
 
 
@@ -430,6 +605,7 @@ public class SpendinGoodPage {
 
 
 
+    /*US_11(608-658 satır)*/
 
 
 
@@ -441,7 +617,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_17(20 satır)*/
 
 
 
@@ -462,7 +637,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_18(20 satır)*/
 
 
 
@@ -482,8 +656,8 @@ public class SpendinGoodPage {
 
 
 
+    /*US_12(659-709 satır)*/
 
-    /*US_19(20 satır)*/
 
 
 
@@ -504,7 +678,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_20(20 satır)*/
 
 
 
@@ -525,7 +698,6 @@ public class SpendinGoodPage {
 
 
 
-    /*US_21(20 satır)*/
 
 
 
@@ -535,6 +707,7 @@ public class SpendinGoodPage {
 
 
 
+    /*US_13(710-760 satır)*/
 
 
 
@@ -546,7 +719,454 @@ public class SpendinGoodPage {
 
 
 
-    /*US_22(20 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_14(761-811 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_15(812-862 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_16(863-913 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_17(914-964 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_18(965-1015 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_19(1016-1066 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_20(1067-1117 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_21(1118-1168 satır)*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    /*US_22(1169- satır)*/
 
 
 
