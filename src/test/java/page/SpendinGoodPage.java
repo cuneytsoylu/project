@@ -170,6 +170,47 @@ public class SpendinGoodPage {
 
 
     /*US_06(20 satır)*/
+    @FindBy (xpath ="(//*[text()='Accessories'])[3]")
+    public WebElement accessories;
+
+    @FindBy (xpath ="(//*[text()='Appointment'])[2]")
+    public WebElement appointment;
+
+    @FindBy (xpath ="(//*[text()='Best Seller'])[2]")
+    public WebElement bestSeller;
+
+    @FindBy (xpath ="(//*[text()='Electronics'])[3]")
+    public WebElement electronics;
+
+    @FindBy (xpath ="(//*[text()='Books & Music & Film'])[3]")
+    public WebElement booksMusicFilm;
+
+    @FindBy (xpath ="(//*[text()='Health & Beauty'])[2]")
+    public WebElement healthBeauty;
+
+    @FindBy (xpath ="(//*[text()='Home & Garden'])[3]")
+    public WebElement homeGarden;
+
+    @FindBy (xpath ="(//*[text()='Fashion'])[3]")
+    public WebElement fashion;
+
+    @FindBy (xpath ="(//*[text()='New Arrivals'])[3]")
+    public WebElement newArrivals;
+
+    @FindBy (xpath ="(//*[text()='Toys & Games'])[3]")
+    public WebElement toys;
+
+    @FindBy (xpath ="(//*[text()='Trending'])[2]")
+    public WebElement trending;
+
+
+
+
+
+
+
+
+
 
 
 

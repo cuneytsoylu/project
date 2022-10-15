@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d7d4c6c-9856-4be8-999f-450bf9537241" name="Changes" comment="14.10.2022">
+    <list default="true" id="2d7d4c6c-9856-4be8-999f-450bf9537241" name="Changes" comment="15.10.2022">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_17/TC_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_17/TC_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_17/TC_003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_17/TC_003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_19.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_19/TC_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_19/TC_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_21.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_21/TC_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_21/TC_01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_21/TC_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/US_21/TC_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page/SpendinGoodPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/SpendinGoodPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
