@@ -911,22 +911,22 @@ public class SpendinGoodPage {
 
 
     /*US_17(914-964 satır)*/
-    @FindBy(xpath = "//*[text()='Sign In '] ")
-    public WebElement SignIn;
-    @FindBy (xpath = "//*[@id='username']")
-    public WebElement userNameBox;
-    @FindBy (xpath = "//*[@id='password']")
-    public WebElement passwordBox;
-    @FindBy (xpath = "(//*[text()='Sign In'])[2]")
-    public WebElement SignInButton;
-    @FindBy(xpath = "(//*[text()='My Account'])[1]")
-    public WebElement myAccount;
-    @FindBy (xpath = "//*[text()='shipping and billing addresses']")
-    public WebElement shippingAndBillingAddresses;
-    @FindBy (xpath = "//*[text()='Edit Your Billing Address']")
-    public WebElement editYourBilling;
-    @FindBy (xpath = "//*[@id='billing_first_name']")
-    public WebElement billingName;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
