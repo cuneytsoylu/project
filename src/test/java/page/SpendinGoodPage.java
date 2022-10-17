@@ -272,7 +272,6 @@ public class SpendinGoodPage {
     /*US_05(272-352 satır)*/
     @FindBy (xpath ="//*[text()='Store Manager']")
     public WebElement storeManager;
-
     @FindBy (xpath ="(//*[@class='text'])[4]")
     public WebElement storeManagerProducts;
 
