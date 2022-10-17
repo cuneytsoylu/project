@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d7d4c6c-9856-4be8-999f-450bf9537241" name="Changes" comment="15.10.2022">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_05/TC_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_05/TC_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_05/TC_003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_05/TC_004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_05/TC_005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_06/TC_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US_07/TC_001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
 
 =======
       <change beforePath="$PROJECT_DIR$/src/test/java/page/SpendinGoodPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/SpendinGoodPage.java" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/US_07.java" beforeDir="false" />
+=======
+
 
     </list>
     <option name="SHOW_DIALOG" value="false" />
