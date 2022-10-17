@@ -557,6 +557,16 @@ public class SpendinGoodPage {
     /*US_10(557-607 satır)*/
 
 
+    @FindBy(xpath ="//*[@id='wcfm_products_manage_form_attribute_head']" )
+    public WebElement atributesbutton;
+
+    @FindBy(xpath ="//*[@id='attributes_is_active_1']")
+    public WebElement color;
+
+    @FindBy(xpath ="//*[@id='attributes_is_active_2']")
+    public WebElement size;
+    @FindBy(xpath ="//span[@class='select2-results']")
+    public WebElement activeColor;
 
 
 
@@ -607,6 +617,12 @@ public class SpendinGoodPage {
 
     /*US_11(608-658 satır)*/
 
+
+    @FindBy(xpath ="//*[@class='page_collapsible_content_holder'][9]")
+    public WebElement toptanurungosterme;
+
+    @FindBy(xpath ="//*[@id='piecetype']")
+    public WebElement piecetype;
 
 
 
